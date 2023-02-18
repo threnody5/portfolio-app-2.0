@@ -1,5 +1,7 @@
-p {
-    color: #9D8A6D;
+@import './../../Variables.scss';
+
+.info-message-paragraph {
+    color: $primary-color;
     max-width: 500px;
 }
 

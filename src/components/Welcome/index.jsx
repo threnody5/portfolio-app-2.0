@@ -1,6 +1,6 @@
 /** @format */
 
-import './style.css';
+import './style.scss';
 
 const Welcome = () => {
   return (
